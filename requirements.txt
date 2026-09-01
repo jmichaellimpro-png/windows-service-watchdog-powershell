@@ -1,0 +1,2 @@
+pywin32>=306; platform_system == "Windows"
+src/service_watchdog.py
